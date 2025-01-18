@@ -50,11 +50,11 @@ Ensure you have the following installed:
 ### Steps to Run the Application
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/crop-yield-prediction.git
+   git clone https://github.com/your-username/CropVision.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd crop-yield-prediction
+   cd CropVision
    ```
 3. Install the required libraries:
    ```bash
@@ -113,8 +113,8 @@ Ensure the dataset is formatted correctly and placed in the project directory be
 ## Contact Us
 For any queries or feedback, feel free to reach out:
 
-- **Email**: info@cropprediction.com
-- **Phone**: +123-456-7890
+- **Email**: ksushanth9030@gmail.com
+- **Phone**: +91 9392361766
 - **Address**: 123 Agri Street, Farm City, AgriLand
 
 ---
