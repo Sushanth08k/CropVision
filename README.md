@@ -5,6 +5,17 @@
 
 This is a **Streamlit** application that predicts crop yields using historical data and visualizes agricultural trends. It provides a user-friendly interface to assist farmers, researchers, and policymakers in making informed decisions based on data-driven insights.
 
+
+## Screenshots
+       ![image](https://github.com/user-attachments/assets/1413469c-c6d9-46b9-a72d-b43c1213be0d)
+
+       ![image](https://github.com/user-attachments/assets/50089325-b5e6-4d3f-8429-53ddf3c35b5d)
+
+       ![image](https://github.com/user-attachments/assets/9164f1f7-65f9-4173-9269-afbc28442d2c)
+
+       ![image](https://github.com/user-attachments/assets/7efceae1-1d1d-4b84-8a13-9292cf5ee2a6)
+
+
 ## Features
 
 ### 1. Crop Yield Prediction
@@ -115,12 +126,7 @@ For any queries or feedback, feel free to reach out:
 
 - **Email**: ksushanth9030@gmail.com
 - **Phone**: +91 9392361766
-- **Address**: 123 Agri Street, Farm City, AgriLand
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+- **Address**: Hyderabad, India
 
 ---
 
