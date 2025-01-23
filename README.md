@@ -5,17 +5,6 @@
 
 This is a **Streamlit** application that predicts crop yields using historical data and visualizes agricultural trends. It provides a user-friendly interface to assist farmers, researchers, and policymakers in making informed decisions based on data-driven insights.
 
-
-## Screenshots
-       ![Alt Text]("C:\Users\SUSHANTH\OneDrive\Pictures\Screenshots\Screenshot 2025-01-23 054910.png")
-       
-       ![Alt Text]("C:\Users\SUSHANTH\OneDrive\Pictures\Screenshots\Screenshot 2025-01-23 072828.png")
-
-       ![Alt Text]("C:\Users\SUSHANTH\OneDrive\Pictures\Screenshots\Screenshot 2025-01-23 072916.png")
-
-       ![Alt Text]("C:\Users\SUSHANTH\OneDrive\Pictures\Screenshots\Screenshot 2025-01-23 072955.png")
-
-
 ## Features
 
 ### 1. Crop Yield Prediction
