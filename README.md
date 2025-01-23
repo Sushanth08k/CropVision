@@ -7,13 +7,13 @@ This is a **Streamlit** application that predicts crop yields using historical d
 
 
 ## Screenshots
-       ![image](https://github.com/user-attachments/assets/1413469c-c6d9-46b9-a72d-b43c1213be0d)
+       ![Alt Text]("C:\Users\SUSHANTH\OneDrive\Pictures\Screenshots\Screenshot 2025-01-23 054910.png")
+       
+       ![Alt Text]("C:\Users\SUSHANTH\OneDrive\Pictures\Screenshots\Screenshot 2025-01-23 072828.png")
 
-       ![image](https://github.com/user-attachments/assets/50089325-b5e6-4d3f-8429-53ddf3c35b5d)
+       ![Alt Text]("C:\Users\SUSHANTH\OneDrive\Pictures\Screenshots\Screenshot 2025-01-23 072916.png")
 
-       ![image](https://github.com/user-attachments/assets/9164f1f7-65f9-4173-9269-afbc28442d2c)
-
-       ![image](https://github.com/user-attachments/assets/7efceae1-1d1d-4b84-8a13-9292cf5ee2a6)
+       ![Alt Text]("C:\Users\SUSHANTH\OneDrive\Pictures\Screenshots\Screenshot 2025-01-23 072955.png")
 
 
 ## Features
