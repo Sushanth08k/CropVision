@@ -63,7 +63,7 @@ Ensure you have the following installed:
 4. Ensure the dataset `crop_yield_dataset.csv` is in the project directory.
 5. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   python3 -m streamlit run app.py
    ```
 6. Open the provided URL in your web browser to access the app.
 

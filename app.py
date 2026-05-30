@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -9,8 +10,9 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 
 # Load Dataset
+@st.cache_data
 def load_data():
-    dataset_path = "crop_yield_dataset.csv"  # Ensure the dataset is in the same folder
+    dataset_path = os.path.join(os.path.dirname(__file__), "crop_yield_dataset.csv")
     try:
         data = pd.read_csv(dataset_path)
         return data
