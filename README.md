@@ -15,7 +15,11 @@ This is a **Streamlit** application that predicts crop yields using historical d
   - Season
 - Customize polynomial degree and prediction year range for better accuracy and insights.
 
-### 2. Data Visualization
+### 2. Dataset Summary
+- Presents dataset metadata such as record count, feature count, and unique values.
+- Shows year range and missing value diagnostics for better data understanding.
+
+### 3. Data Visualization
 - **Crop-Wise Average Yield**: Bar charts displaying average yield per crop.
 - **Yield Over the Years**: Line plots showing historical yield trends.
 - Interactive visualizations using Matplotlib and Seaborn for easy understanding.

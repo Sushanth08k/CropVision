@@ -103,6 +103,23 @@ def visualize_data(data):
     plt.ylabel("Yield")
     st.pyplot(plt.gcf())
 
+# Dataset Summary
+def show_data_summary(data):
+    st.write("### Dataset Summary")
+    st.write(f"- Total records: **{data.shape[0]}**")
+    st.write(f"- Total features: **{data.shape[1]}**")
+    st.write(f"- Unique states: **{data['State'].nunique()}**")
+    st.write(f"- Unique crops: **{data['Crop'].nunique()}**")
+    st.write(f"- Unique seasons: **{data['Season'].nunique()}**")
+    st.write(f"- Year range: **{int(data['Crop_Year'].min())} - {int(data['Crop_Year'].max())}**")
+
+    missing_values = data.isnull().sum()
+    if missing_values.any():
+        st.write("#### Missing Values")
+        st.write(missing_values[missing_values > 0])
+    else:
+        st.write("No missing values found in the dataset.")
+
 # About Us Section
 def about_us():
     st.write("### About Us")
@@ -175,6 +192,7 @@ def main():
         if section == "Home":
             st.write("### Welcome to the Crop Yield Prediction Tool")
             st.write("This tool helps to predict and visualize crop yields based on historical data.")
+            show_data_summary(data)
             st.write("### Data Preview")
             st.write(data.head())
 
